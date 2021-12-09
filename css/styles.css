@@ -184,7 +184,8 @@ body {
 }
 
 .contacts-phone-header,
-.contacts-mail-header {
+.contacts-mail-header,
+.contacts-git-header {
     font-style: normal;
     font-weight: bold;
     font-size: 22px;
@@ -194,7 +195,8 @@ body {
 }
 
 .contacts-phone-link,
-.contacts-mail-link {
+.contacts-mail-link,
+.contacts-git-link {
     margin-left: 5px;
     font-style: normal;
     font-weight: normal;
