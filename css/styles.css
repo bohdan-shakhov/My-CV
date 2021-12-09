@@ -12,5 +12,143 @@ body {
 }
 
 
+/* RIGHT side container */
+
+.right-side-container {
+    padding: 40px 60px;
+}
+
+/* About me section */
+.about-me-section {
+    margin: 0px 0px 25px 0px;
+}
+
+/* About me name */
+.about-me-name {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 28px;
+    color: #200a0a;
+}
+
+/* About me profession */
+.about-me-profession {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 28px;
+    color: #312f2f;
+    margin-bottom: 30px;
+}
+
+/* About me objective */
+.about-me-objective-header {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 22px;
+    line-height: 28px;
+    margin-bottom: 5px;
+    color: #200a0a;
+}
+
+.about-me-objective-content {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+    color: #312f2f;
+    margin-top: 0px;
+}
+
+/* Skills & Language*/
+
+.skills-container,
+.language-container {
+    margin-bottom: 25px;
+}
+
+.tech-skills-header,
+.language-header {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 22px;
+    line-height: 28px;
+    margin-bottom: 5px;
+    color: #200a0a;
+}
+
+.tech-skills-list,
+.language-list {
+    margin-top: 0px;
+    padding-left: 19px;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 24px;
+    color: #000000;
+}
+
+.tech-skills-item,
+.language-item {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+    color: #201d1d;
+}
+
+/* Education */
+.education-container {
+    margin-bottom: 25px;
+}
+
+.education-header {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 22px;
+    line-height: 28px;
+    margin-bottom: 5px;
+    color: #200a0a;
+}
+
+.education-university {
+    margin-top: 0px;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 28px;
+    margin-bottom: 5px;
+    color: #200a0a;
+}
+
+.education-degree {
+    margin-top: 0px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 28px;
+    margin-bottom: 5px;
+    color: #201d1d;
+    margin-bottom: 5px;
+}
+
+.education-speciality {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 17px;
+    line-height: 24px;
+    color: #312f2f;
+    margin: 0px 0px 5px 0px;     
+}
+
+.education-date {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+    color: #312f2f;
+    margin-top: 0px;    
+}
 
 
