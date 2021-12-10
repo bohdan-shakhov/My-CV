@@ -9,7 +9,6 @@ body {
     width: 1200px;
     background-color: white;
     margin: 40px 70px;
-    padding-left: 0px;
 }
 
 
@@ -160,8 +159,8 @@ body {
 
 .left-side-image {
     display: block;
-    width: 320px;
-    height: 350px;
+    width: 305px;
+    height: 320px;
     margin: 15px auto;
     border-radius: 50%;
 }
