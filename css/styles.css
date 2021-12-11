@@ -7,27 +7,27 @@ body {
     display: flex;
     flex-direction: row-reverse;
     background-color: white;
-    margin: 40px 70px;
+    margin: 4% 7%;
 }
 
 
 /* RIGHT side container */
 
 .right-side-container {
-    padding: 40px 60px;
+    padding: 4% 6%;
 }
 
 /* About me section */
 .about-me-section {
-    margin: 0px 0px 25px 0px;
+    margin: 0 0 2.5% 0;
 }
 
 /* About me name */
 .about-me-name {
     font-style: normal;
     font-weight: bold;
-    font-size: 24px;
-    line-height: 28px;
+    font-size: 180%;
+    line-height: 100%;
     color: #200a0a;
 }
 
@@ -35,56 +35,56 @@ body {
 .about-me-profession {
     font-style: normal;
     font-weight: normal;
-    font-size: 20px;
-    line-height: 28px;
+    font-size: 160%;
+    line-height: 150%;
     color: #312f2f;
-    margin-bottom: 30px;
+    margin-bottom: 3%;
 }
 
 /* About me objective */
 .about-me-objective-header {
     font-style: normal;
     font-weight: bold;
-    font-size: 22px;
-    line-height: 28px;
-    margin-bottom: 5px;
+    font-size: 140%;
+    line-height: 150%;
+    margin-bottom: 0.5%;
     color: #200a0a;
 }
 
 .about-me-objective-content {
     font-style: normal;
     font-weight: normal;
-    font-size: 14px;
-    line-height: 24px;
+    font-size: 90%;
+    line-height: 150%;
     color: #312f2f;
-    margin-top: 0px;
+    margin-top: 0;
 }
 
 /* Skills & Language*/
 
 .skills-container,
 .language-container {
-    margin-bottom: 25px;
+    margin-bottom: 2.5%;
 }
 
 .tech-skills-header,
 .language-header {
     font-style: normal;
     font-weight: bold;
-    font-size: 22px;
-    line-height: 28px;
-    margin-bottom: 5px;
+    font-size: 140%;
+    line-height: 150%;
+    margin-bottom: 0.5%;
     color: #200a0a;
 }
 
 .tech-skills-list,
 .language-list {
-    margin-top: 0px;
-    padding-left: 19px;
+    margin-top: 0;
+    padding-left: 3.1%;
     font-style: normal;
     font-weight: bold;
-    font-size: 14px;
-    line-height: 24px;
+    font-size: 90%;
+    line-height: 150%;
     color: #000000;
 }
 
@@ -92,62 +92,61 @@ body {
 .language-item {
     font-style: normal;
     font-weight: normal;
-    font-size: 14px;
-    line-height: 24px;
+    font-size: 105%;
+    line-height: 150%;
     color: #201d1d;
 }
 
 /* Education */
 .education-container {
-    margin-bottom: 25px;
+    margin-bottom: 2.5%;
 }
 
 .education-header {
     font-style: normal;
     font-weight: bold;
-    font-size: 22px;
-    line-height: 28px;
-    margin-bottom: 5px;
+    font-size: 140%;
+    line-height: 150%;
+    margin-bottom: 0.5%;
     color: #200a0a;
 }
 
 .education-university {
-    margin-top: 0px;
+    margin-top: 0;
     font-style: normal;
     font-weight: bold;
-    font-size: 18px;
-    line-height: 28px;
-    margin-bottom: 5px;
+    font-size: 110%;
+    line-height: 150%;
+    margin-bottom: 0.5%;
     color: #200a0a;
 }
 
 .education-degree {
-    margin-top: 0px;
+    margin-top: 0;
     font-style: normal;
     font-weight: normal;
-    font-size: 18px;
-    line-height: 28px;
-    margin-bottom: 5px;
+    font-size: 110%;
+    line-height: 150%;
+    margin-bottom: 0.5%;
     color: #201d1d;
-    margin-bottom: 5px;
 }
 
 .education-speciality {
     font-style: normal;
     font-weight: normal;
-    font-size: 17px;
-    line-height: 24px;
+    font-size: 100%;
+    line-height: 150%;
     color: #312f2f;
-    margin: 0px 0px 5px 0px;     
+    margin: 0 0 0.5% 0;     
 }
 
 .education-date {
     font-style: normal;
     font-weight: normal;
-    font-size: 14px;
-    line-height: 24px;
+    font-size: 100%;
+    line-height: 150%;
     color: #312f2f;
-    margin-top: 0px;    
+    margin-top: 0;    
 }
 
 /* LEFT Side */
@@ -158,48 +157,36 @@ body {
 
 .left-side-image {
     display: block;
-    width: 305px;
-    height: 320px;
-    margin: 15px auto;
+    width: 55%;
+    margin: 1.5% auto;
     border-radius: 50%;
 }
 
 .contacts-container {
-    margin: 30px 0 0 50px;
+    margin: 3% 0 0 10%;
 }
 
 .contacts-header {
     font-style: normal;
     font-weight: bold;
-    font-size: 26px;
-    line-height: 28px;
-    margin-bottom: 10px;
+    font-size: 160%;
+    line-height: 150%;
+    margin-bottom: 1%;
     color: #200a0a;
 }
 
 .contacts-phone-container {
-    margin-top: 0px 0px 0px 5px;
-}
-
-.contacts-phone-header,
-.contacts-mail-header,
-.contacts-git-header {
-    font-style: normal;
-    font-weight: bold;
-    font-size: 22px;
-    line-height: 28px;
-    margin-bottom: 10px;
-    color: #200a0a;
+    margin-top: 0 0 0 0.5%;
 }
 
 .contacts-phone-link,
 .contacts-mail-link,
 .contacts-git-link {
-    margin-left: 5px;
+    margin-left: 0.5%;
     font-style: normal;
     font-weight: normal;
-    font-size: 19px;
-    line-height: 28px;
-    margin-bottom: 10px;
+    font-size: 110%;
+    line-height: 150%;
+    margin-bottom: 1%;
     color: #312f2f;
 }
